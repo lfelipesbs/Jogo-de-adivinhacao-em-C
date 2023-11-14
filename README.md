@@ -37,3 +37,15 @@ Compile o código utilizando um compilador de C (como gcc) e execute o arquivo b
 ## Pontuação
 
   A pontuação começa em 200 e diminui com cada palpite, de acordo com a diferença absoluta entre o palpite e o número secreto. Se o usuário adivinha corretamente, a pontuação é multiplicada por um fator decrescente (iniciando em 6 e decrescendo a cada tentativa).
+
+## Contribuições
+
+Contribuições são encorajadas e podem ser feitas através de pull requests no repositório. Sugestões para novas funcionalidades, melhorias de código e correções de bugs são sempre bem-vindas.
+
+## Licença
+
+Este projeto é licenciado sob a GNU General Public License v3.0. Veja o arquivo LICENSE para mais detalhes.
+
+## Contato
+
+Se tiver alguma dúvida ou sugestão, por favor, entre em contato com o mantenedor do projeto através de luizfelipesbs15@gmail.com
